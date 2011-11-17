@@ -27,7 +27,6 @@ Site by <a href="http://mildfuzz.com" >Mild Fuzz</a>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 <script defer src="js/jQuestions.js" type="text/javascript" charset="utf-8"></script>
-<script defer src="js/ui.js" type="text/javascript" charset="utf-8"></script>
 
 </body>
 </html>
